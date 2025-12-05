@@ -54,8 +54,8 @@ button:hover {
 .hero .author {
     font-size: 1rem;
     font-style: italic;
-    margin: 10px 0;
     color: #ddd;
+    text-align: center;
 }
 
 
@@ -91,7 +91,9 @@ button:hover {
     align-items: center;
     gap: 40px;
     flex-wrap: wrap;
+    margin-bottom: 50px; 
 }
+
 
 .visual img {
     width: 450px;
